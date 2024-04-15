@@ -48,7 +48,7 @@
 <br />
 <br />
 
-![snake gif](https://github.com/RobertJeon/RobertJeon/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/RobertJeon/RobertJeon/blob/output/github-contribution-grid-snake.svg"/>
 
 
 Copyright ⓒ startupcode yaro
