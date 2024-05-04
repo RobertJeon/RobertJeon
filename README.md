@@ -48,7 +48,7 @@
 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Skills)
-<div style="display:flex;gap:30px;flex-wrap:wrap;justify-content:center;" >
+<div style="display:flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
@@ -63,7 +63,7 @@
 </div>
 
 <h3 style="display:flex;gap:30px;flex-wrap:wrap;justify-content:center;"> 협업툴 </h3>
-<div style="display:flex;gap:30px;flex-wrap:wrap;justify-content:center;" >
+<div style="display:flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
