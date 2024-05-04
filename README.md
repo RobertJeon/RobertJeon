@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-# <center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A0%84%EC%83%81%EC%96%B8%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)</center> 
+<div style="text-align:center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A0%84%EC%83%81%EC%96%B8%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG">
+</div>
+
+--------------
 
 <a href="https://github.com/RobertJeon">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertJeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -14,7 +18,7 @@
 <br />
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+values)](https://git.io/typing-svg)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+values)
 > # 맡은 일은 꾸준히 하자!
 > 권리조사 및 대출심사처럼 반복되는 업무속에서 지치지 않고, 꾸준히 업무처리를 진행하여 월 평균 1000여건
   이상 심사를 진행하였습니다. 그 중 빠짐없이 매일 긴급이슈 심사를 전적으로 담당하여, one-stop으로 
@@ -32,7 +36,7 @@
 <br />
 <br />
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=How+i+work)](https://git.io/typing-svg)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=How+i+work)
 > # 효율적으로 일하자!
 > 1. 루틴을 통한 업무의 패턴으로 효율성을 높입니다.
 > 2. 동기부여 반복적인 업무 속에서 지치지 않기 위해 꾸준히 동기부여를 합니다.
@@ -43,7 +47,7 @@
 <br />
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Skills)](https://git.io/typing-svg)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Skills)
 <div style="display:flex;gap:30px;flex-wrap:wrap;justify-content:center;" >
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
