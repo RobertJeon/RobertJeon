@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,
-75:3572A5,100:A371F7&height=100&section=header&text=Welcome!&fontSize=50&fontColor=e6e6fa&fontAlign=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 # <center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A0%84%EC%83%81%EC%96%B8%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)</center> 
 
@@ -75,4 +74,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertJeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=Thank you!&fontSize=30&fontColor=e6e6fa&fontAlign=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
