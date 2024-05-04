@@ -12,6 +12,12 @@
 <a href="https://github.com/RobertJeon">
   <img src="https://github-readme-stats.vercel.app/api?username=RobertJeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
+<div style="text-align: center;">
+  <a href="https://solved.ac/jse177/" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jse177" alt="Solved.ac Profile">
+  </a>
+  <h3 style="margin-top: 10px;">BOJ</h3>
+</div>
 
 <br />
 <br />
@@ -25,12 +31,6 @@
   마지막까지 정확하고 빠르게 진행하였습니다. 위처럼 꾸준히 처리하면서 자연스럽게 개인의 업무처리 역량도
   끌어올리는 성장을 경험하여 맡은 일은 꾸준히 하는 것입니다.
 
-<div style="text-align: center;">
-  <a href="https://solved.ac/jse177/" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jse177" alt="Solved.ac Profile">
-  </a>
-  <p style="margin-top: 10px;">BOJ</p>
-</div>
 
 <br />
 <br />
