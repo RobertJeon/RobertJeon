@@ -6,18 +6,18 @@
 
 --------------
 
+<div align="center">
+  <a href="https://solved.ac/jse177/" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jse177" alt="Solved.ac Profile">
+  </a>
+</div>
+
 <a href="https://github.com/RobertJeon">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertJeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>  
 <a href="https://github.com/RobertJeon">
   <img src="https://github-readme-stats.vercel.app/api?username=RobertJeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
-<div style="text-align: center;">
-  <a href="https://solved.ac/jse177/" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jse177" alt="Solved.ac Profile">
-  </a>
-  <h3 style="margin-top: 10px;">BOJ</h3>
-</div>
 
 <br />
 <br />
@@ -46,9 +46,14 @@
 <br />
 <br />
 
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Project)
+
+
+
+
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Skills)
-<div style="display:flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+<div style="display:flex; flex-wrap: wrap; gap: 1px; justify-content: center;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
@@ -63,7 +68,7 @@
 </div>
 
 <h3 style="display:flex;gap:30px;flex-wrap:wrap;justify-content:center;"> 협업툴 </h3>
-<div style="display:flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+<div style="display:flex; flex-wrap: wrap; gap: 1px; justify-content: center;">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
