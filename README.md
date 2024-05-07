@@ -6,19 +6,6 @@
 
 --------------
 
-<div align="center">
-  <a href="https://solved.ac/jse177/" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jse177" alt="Solved.ac Profile">
-  </a>
-</div>
-
-<a href="https://github.com/RobertJeon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertJeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>  
-<a href="https://github.com/RobertJeon">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertJeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-
 <br />
 <br />
 <br />
@@ -76,6 +63,21 @@
 <br />
 <br />
 <br />
+
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dashborad)
+
+<div align="center">
+  <a href="https://solved.ac/jse177/" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jse177" alt="Solved.ac Profile">
+  </a>
+</div>
+
+<a href="https://github.com/RobertJeon">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertJeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>  
+<a href="https://github.com/RobertJeon">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobertJeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
 
 <img src="https://github.com/RobertJeon/RobertJeon/blob/output/github-contribution-grid-snake.svg"/>
 
