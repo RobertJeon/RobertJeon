@@ -16,7 +16,7 @@
 <br />
 <br />
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=How+i+work)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=How+I+work)
 > # 효율적으로 일하자!
 > 1. 루틴을 통한 업무의 패턴으로 효율성을 높입니다.
 > 2. 동기부여 반복적인 업무 속에서 지치지 않기 위해 꾸준히 동기부여를 합니다.
