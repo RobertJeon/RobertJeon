@@ -26,10 +26,7 @@
 <br />
 <br />
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Project)
-
-
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Portfolio_click)](https://drive.google.com/file/d/1h0jLLE3RDwXgSThm0Kyva1hz7_4CscOd/view?usp=sharing)
 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Skills)
